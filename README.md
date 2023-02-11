@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Hub](https://github.com/humbl3lalis/3_column_preview_card_component.git)
+- Live Site URL: [Vercel](https://3-column-preview-card-component-ten-bay.vercel.app/)
 
 ## My process
 
